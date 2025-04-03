@@ -57,8 +57,6 @@ margin-top: 2cm;
 .words{
     padding-left:500px;
 
-
-
 }
 .words p{
 margin-left: 2cm;
@@ -95,14 +93,7 @@ margin-left: 180px;
 #videoimg{
     width: 5cm;
 }
-.wordswords{
 
-
-}
-.phase{
-
-
-}
 .chairpic{
 display: flex;
 gap: 5cm;
@@ -117,9 +108,7 @@ margin-top: 4cm;
 display: flex;
 
 }
-.lastwords{
 
-}
 #yellow{
     width: 2cm;
 }
@@ -145,4 +134,13 @@ width: 100%;
     background-color: orange;
     color: white;
     width: 5cm;
+}
+.lorem-text{
+    display: flex;
+    gap: 5cm;
+    margin-left: 80px;
+}
+h2{
+    text-align: center;
+    margin-top: 3cm;
 }
