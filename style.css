@@ -1,0 +1,148 @@
+body {
+    background-color:white;
+    background-image:none
+
+
+}
+.container{
+display: flex;
+color: white;
+background-color: black;
+padding-left: 500px;
+
+}
+.dashboard{
+    display: flex;
+    justify-items: left;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 0;
+    margin:0 ;
+    margin-right: 80px;
+    padding: 50px;
+    gap: 4cm;
+    margin-left: 52px;
+}
+.email{
+    display: flex;
+    justify-content: left;
+
+}
+.number{
+    display: flex;
+    justify-content :right;
+    padding-inline: 40px;
+
+} 
+.firstpicture{
+    padding-left: 200px;
+    border: 1px;
+}
+.learnmore{
+padding-left: 150px;
+margin-top: 2cm;
+}
+
+
+.secondpicture{
+
+    padding-left: 200px;
+    margin-left: 40px;
+    margin-top: 2cm;
+    display: flex;
+    gap: 2cm;
+
+
+}
+.words{
+    padding-left:500px;
+
+
+
+}
+.words p{
+margin-left: 2cm;
+}
+.logo{
+    display: flex;
+    padding-left:50px;
+    min-width: 5%;
+
+}
+
+
+
+.line{
+    padding-left: 500px;
+
+}
+.wordsbrand{
+/* word-spacing: 50px; */
+display: flex;
+gap: 5cm;
+margin-left: 180px;
+
+
+}
+.helpingtxt{
+    display: flex;
+    gap: 5cm;
+    margin-left: 3cm;
+}
+.clients{
+    display: flex;
+}
+#videoimg{
+    width: 5cm;
+}
+.wordswords{
+
+
+}
+.phase{
+
+
+}
+.chairpic{
+display: flex;
+gap: 5cm;
+margin-top: 3cm;
+margin-left: 3cm;
+}
+.manpic{
+margin-top: 4cm;
+
+}
+.fillout{
+display: flex;
+
+}
+.lastwords{
+
+}
+#yellow{
+    width: 2cm;
+}
+#yellow2{
+    width: 2cm;
+}
+#yellow3{
+    width: 2cm;
+}
+#blue{
+    width: 2cm;
+}
+#couples{
+width: 100%;
+}
+.movingtype{
+    border: solid 1px;
+    background-color:blue ;
+    color: white;
+}
+.booknow{
+    border: solid 1px;
+    background-color: orange;
+    color: white;
+    width: 5cm;
+}
